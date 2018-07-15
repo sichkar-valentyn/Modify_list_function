@@ -1,3 +1,16 @@
+# File: list_and_set.py
+# Description: Function for modifying lists with remove and count methods
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Function for modifying lists with remove and count methods. // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Modify_list_function (date of access: XX.XX.XXXX)
+
+
+
 # Implementing the task
 # As an input there is integer numbers divided by gap
 # As an output to show just repeated numbers
