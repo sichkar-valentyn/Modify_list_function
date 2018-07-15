@@ -5,12 +5,12 @@ Modifying lists function with the help of remove and count methods
 [1] Valentyn N Sichkar. Function for modifying lists with remove and count methods. // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Modify_list_function (date of access: XX.XX.XXXX)
 
 ## Description
-Creating functions for modifying lists with the help of _'remove'_ method and _'popcount'_ methods.
+Creating functions for modifying lists with the help of _'remove'_ method and _'count'_ methods.
 <br/>As an input there is integer numbers divided by gap.
 <br/>As an output to show just repeated numbers.
 <br/>Example:
-* Input: 
-* Output:
+* Input: 1 1 3 4 5 5 8 8 0 0
+* Output: 1 8 0 5
 
 ## MIT License
 ## Copyright (c) 2018 Valentyn N Sichkar
