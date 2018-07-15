@@ -32,7 +32,7 @@ for x in s:
         lst.remove(x)
         # Showing the result
         print(x, end=' ')
-        # Removing all other elements that can be met ore then two times
+        # Removing all other elements that can be met more then two times
         while x in lst:
             lst.remove(x)
 
@@ -46,8 +46,9 @@ lst = input().split()
 # Repeated elements will not be added
 s = set(lst)
 
-# Going through all list and checking for the repetitions
+# Going through all elements of the set and checking for the repetitions in the list
 for x in s:
     # Using method 'count' to find repetitions
     if lst.count(x) > 1:
         print(x, end=' ')
+
