@@ -1,9 +1,6 @@
 # Modify_list_function
 Modifying lists function with the help of remove and count methods
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Function for modifying lists with remove and count methods. // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Modify_list_function (date of access: XX.XX.XXXX)
 
